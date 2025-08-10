@@ -1,8 +1,8 @@
-This API was started in our techyjaunt 
-backEnd class to show/explain _AUTH_ and 
-later we were told by our **Class Instructor**
-to clone the API and implement ``paymentRoute`` 
-for our `car-rental-service` app.
+This API was started in our techyjaunt \n
+backEnd class to show/explain _AUTH_ and \n
+later we were told by our **Class Instructor**\n
+to clone the API and implement ``paymentRoute`` \n
+for our `car-rental-service` app.\n
 
 
 # TechyJaunt-Auth
