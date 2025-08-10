@@ -1,9 +1,12 @@
+require('dotenv').config();
 const express = require('express');
 const dotenv = require('dotenv');
 const morgan = require('morgan')
 const connectDB = require('./src/config/db');
 const userRouter = require('./src/routes/user.routes');
 const carRouter = require('./src/routes/cars.routes');
+const paymentRouter = require('./src/routes/payment.routes');
+const secretKey = process.env.FLW_SECRET_KEY;
 
 dotenv.config();
 const app = express();
@@ -18,6 +21,8 @@ app.get('/', (req, res)=> {
 
 app.use('/api/users', userRouter);
 app.use('/api/cars', carRouter);
+app.use('/api/payments', paymentRouter);
+
 
 
 app.listen(PORT, ()=> {
