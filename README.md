@@ -1,3 +1,10 @@
+This API was started in our techyjaunt 
+backEnd class to show/explain _Auth_ and 
+later we were told by our**Class Instructor**
+to clone the API and implement payment route 
+for on car-rental-service app.
+
+
 # TechyJaunt-Auth
 1. Car Schema
 2. Endpoint To Save Cars
