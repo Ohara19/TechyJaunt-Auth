@@ -1,3 +1,4 @@
+<div style="background-color:black; color:white; padding:10px;">
 #### This API was started in our techyjaunt 
 
 #### backEnd class to show/explain _AUTH_ and 
@@ -7,7 +8,7 @@
 ####  to clone the API and implement ``paymentRoute`` 
 
 #### for our `car-rental-service` app. 
-
+</div>
 
 # TechyJaunt-Auth
 1. Car Schema
