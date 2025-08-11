@@ -11,7 +11,7 @@ to clone the API and implement ``paymentRoute``
 
 for our car-rental-service app. 
 
-```####
+```
 
 # TechyJaunt-Auth
 1. Car Schema
