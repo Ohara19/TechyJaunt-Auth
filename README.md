@@ -1,7 +1,5 @@
 
 ```text
-This is white-on-dark by default in GitHub’s code block theme.
-```
 
 #### This API was started in our techyjaunt 
 
@@ -13,6 +11,7 @@ This is white-on-dark by default in GitHub’s code block theme.
 
 #### for our `car-rental-service` app. 
 
+```
 
 # TechyJaunt-Auth
 1. Car Schema
