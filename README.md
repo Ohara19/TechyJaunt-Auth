@@ -1,4 +1,7 @@
-<div style="background-color:black; color:white; padding:10px;">
+
+```text
+This is white-on-dark by default in GitHub’s code block theme.
+```
 
 #### This API was started in our techyjaunt 
 
@@ -9,7 +12,7 @@
 ####  to clone the API and implement ``paymentRoute`` 
 
 #### for our `car-rental-service` app. 
-</div>
+
 
 # TechyJaunt-Auth
 1. Car Schema
