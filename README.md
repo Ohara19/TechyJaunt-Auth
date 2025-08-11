@@ -1,5 +1,5 @@
 
-```text
+```####
 
 This API was started in our techyjaunt 
 
@@ -9,9 +9,9 @@ later we were told by our <b>Class Instructor</b>
 
 to clone the API and implement ``paymentRoute`` 
 
-for our `car-rental-service` app. 
+for our car-rental-service app. 
 
-```
+```####
 
 # TechyJaunt-Auth
 1. Car Schema
